@@ -1,11 +1,8 @@
 # Brandz Application
 Android Kottlin Application that build in clean archticture and best practisies 
 ## summary
-In this Application we have 2 screens
-1. BrandsFragment:\
-  that shows the brand's data including the items this brand offers
-2. DetailsFragment:\
-  that opens an item details including iimage slider
+In this Application we have 1 screen
+1. mapsScreen: that have a search functionality 
 ## Archticture
 We follow the [onion architicture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)\
 So we have 3 layers:
