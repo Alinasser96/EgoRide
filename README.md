@@ -1,4 +1,4 @@
-# Brandz Application
+# Ego Application
 Android Kottlin Application that build in clean archticture and best practisies 
 ## summary
 In this Application we have 1 screen
